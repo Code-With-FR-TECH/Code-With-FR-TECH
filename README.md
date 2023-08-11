@@ -14,5 +14,5 @@ I am currently learning Javascript, to further enhance my skills in Front-End.
 I'm always open to collaborating on interesting projects related to Front-End. Feel free to reach out to me if you have any exciting opportunities!
 
 **Contact Me**
-Email: sandhufaisal140@gmail.com
+Email: frtech031@gmail.com
 
