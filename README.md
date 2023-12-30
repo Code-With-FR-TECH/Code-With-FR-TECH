@@ -8,7 +8,7 @@ Front-End Development
 
 
 **Learning**
-I am currently learning Pythoon, to further enhance my skills in Back-End.
+I am currently learning Python, to further enhance my skills in Back-End.
 
 **Collaboration**
 I'm always open to collaborating on interesting projects related to Front-End. Feel free to reach out to me if you have any exciting opportunities!
