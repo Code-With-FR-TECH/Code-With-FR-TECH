@@ -4,7 +4,7 @@ Hi, This is me Faisal 👋
 I am a passionate in Front-end Development and love making websites using HTML5, CSS3 and Javascript. i'm a student of BS-Software Engr.
 
 **Interests**
-Front-End Development 
+Front-End Development +
 RUST 
 
 **Learning**
