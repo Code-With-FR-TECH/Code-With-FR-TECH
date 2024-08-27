@@ -14,5 +14,5 @@ I am currently learning Rust, to further enhance my skills in Back-End.
 I'm always open to collaborating on interesting projects related to Front-End. Feel free to reach out to me if you have any exciting opportunities!
 
 **Contact Me**
-Email: frtech031@gmail.com
+Email: frafiq031@gmail.com
 
